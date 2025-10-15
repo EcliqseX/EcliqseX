@@ -1,10 +1,14 @@
 ## eclipse
-### she/her arting gaming animating
+- she/her
+- arting
+- gaming
+- coding
+- animating
 ### WIWO
 - school
 - websites
 - fun stuff
-### i like cats
+### i like cats and music
 
 <p align="center">
   <img src="https://images.adagio.com/images2/custom_blends/90690.jpg" alt="Image Alt Text" width="500">
