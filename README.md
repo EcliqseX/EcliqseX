@@ -4,9 +4,8 @@
 - school
 - websites
 - fun stuff
-- ### i like cats
-![Image Alt Text](https://www.adagio.com/signature_blend/blend.html?blend=90690)
-
+### i like cats
+![Image Alt Text](https://images.adagio.com/images2/custom_blends/90690.jpg)
 <!--
 **EcliqseX/EcliqseX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
