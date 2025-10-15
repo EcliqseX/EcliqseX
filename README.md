@@ -1,5 +1,5 @@
-## Eclipse
-### she/her
+## eclipse
+### she/her arting gaming animating
 ### WIWO
 - school
 - websites
