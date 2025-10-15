@@ -7,7 +7,7 @@
 ### i like cats
 
 <p align="center">
-  <img src="https://images.adagio.com/images2/custom_blends/90690.jpg" alt="Image Alt Text" width="200">
+  <img src="https://images.adagio.com/images2/custom_blends/90690.jpg" alt="Image Alt Text" width="500">
 </p>
 
 <!--
