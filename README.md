@@ -1,9 +1,4 @@
 ## eclipse
-- she/her
-- arting
-- gaming
-- coding
-- animating
 ### WIWO
 - school
 - websites
